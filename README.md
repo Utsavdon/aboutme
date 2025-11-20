@@ -1,16 +1,16 @@
-# 👋 Welcome to My Digital Universe!
+# 👋 Welcome to My Digital Workshop!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Purvesh%20Ghevariya&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20•%20Flutter%20•%20AI%20Engineer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Utsav%20Donda&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Flutter%20•%20FastAPI%20•%20AI%20Systems&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=700&lines=Senior+Software+Developer;Python+Backend+Engineer;Flutter+Mobile+Developer;AI+%26+Machine+Learning+Specialist;4+Years+Production+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Flutter+%26+FastAPI+Specialist;AI+Integration+Expert;25%2B+Production+Apps+Delivered;Multi-Database+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purveshghevariya&label=Profile%20Views&color=2196F3&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/purveshghevariya?label=Followers&style=for-the-badge&color=2196F3&labelColor=1a1a1a" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Utsavdon&label=Profile%20Views&color=2196F3&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Utsavdon?label=Followers&style=for-the-badge&color=2196F3&labelColor=1a1a1a" alt="GitHub Followers" />
 </div>
 
 ---
@@ -20,108 +20,93 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
-name: "Purvesh Ghevariya"
-location: "Winnipeg, Manitoba, Canada 🍁"
-role: "Senior Software Developer & AI Engineer"
-experience: "4 Years in Production Systems"
-published_apps: "10+ Live Applications on Google Play Store"
-specialization: ["Python Backend Engineering", "Flutter Development", "AI/ML Deployment", "Cloud Architecture"]
-current_focus: "AI-Powered Systems & Scalable Backend Infrastructure"
-education: "Post-Degree Diploma in AI @ University of Winnipeg"
-ask_me_about: ["FastAPI", "Flutter", "Machine Learning", "System Design", "Cloud Integration"]
-philosophy: "Transforming complex problems into elegant, scalable solutions"
+name: "Utsav Donda"
+location: "Surat, Gujarat, India 🇮🇳"
+role: "Full Stack Flutter & FastAPI Developer"
+experience: "3+ Years in Production Systems"
+published_apps: "25+ Live Applications"
+specialization: ["Flutter Development", "FastAPI Backend", "AI Integration", "Multi-Database Architecture"]
+current_focus: "Agentic AI Systems & Scalable Backend Infrastructure"
+education: "Bachelor of Engineering in Computer Science"
+ask_me_about: ["Flutter", "FastAPI", "AI Integration", "Real-time Systems", "Payment Gateways"]
+philosophy: "Building intelligent, scalable solutions that solve real-world problems"
 ```
 
 ### 🎯 Professional Highlights
-- 🏆 **4 years** of hands-on software development in production environments
-- 🐍 **Python Backend Specialist** - FastAPI, RESTful APIs, microservices architecture
-- 📱 **10+ Flutter applications** designed, developed, and deployed on Google Play Store
-- ⚡ **25% API performance improvement** through optimized FastAPI backend systems
-- 🤖 **AI/ML Integration** - Deployed machine learning models into production via Python APIs
-- 📊 **30% database optimization** - Enhanced query performance and scalability
-- 👨‍🏫 **Mentored 20+ developers** in Git workflows, best practices, and agile methodologies
-- 🎓 Currently pursuing **Post-Degree Diploma in AI** at University of Winnipeg (PACE)
+- 🏆 **3+ years** delivering cross-platform mobile & web applications
+- 📱 **25+ production-grade apps** across Dating, Logistics, Digital Content, Aviation, and Social Media
+- ⚡ **40% improvement** in project delivery efficiency through optimized workflows
+- 🤖 **AI Integration Expert** - Agentic systems, resume parsing, semantic search
+- 🗄️ **Multi-Database Specialist** - PostgreSQL, MongoDB, Firebase, Supabase
+- 💳 **Payment Integration Master** - Stripe, Razorpay with 3D Secure implementation
+- 👨‍🏫 **Team Leader** - Mentored junior developers and coordinated cross-functional teams
+- 🎓 **B.E. in Computer Science** from S V Patel, Surat (2024)
 
 ---
 
 ## 🔥 Featured Projects Portfolio
 
-### 📱 **SmartTools - Multi-Utility Mobile App**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+### 🎯 **Resume Fit - AI-Powered Resume Search Platform**
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-**🎯 The Ultimate Productivity Companion**
-- 🔢 **200+ Dynamic Calculations** - Engineering, financial, mathematical, and scientific calculators
-- 📄 **PDF Tools Suite** - Merge, split, compress, and convert PDF documents seamlessly
-- 📱 **Advanced Scanner** - Barcode & QR code scanner with history and export features
-- ⚡ **Optimized Performance** - Single dynamic screen architecture for lightning-fast calculations
-- 💰 **Monetized** - Strategic Google Ads integration for sustainable revenue generation
-- 🏗️ **Scalable Architecture** - Clean architecture with reusable components
+**🤖 Intelligent Recruitment Solution with AI-Driven Matching**
+- 👥 **Dual User Roles** - Complete platforms for Recruiters and Employees
+- 🧠 **AI Resume Parsing** - Automated extraction and structured data storage
+- 🔍 **Semantic Search** - Vector embeddings for intelligent job-resume matching
+- 📊 **Database Optimization** - PostgreSQL with advanced indexing and query optimization
+- ⚡ **High Performance** - Backend pipelines handling large-scale queries efficiently
+- 🎯 **Job Intelligence** - AI-powered matching algorithms for perfect candidate discovery
+- 🌐 **Admin Panel** - [Live Dashboard](https://resumefitadmin.netlify.app/)
 
-### 📊 **Customer Churn Analysis - ML Predictive System**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+**GitHub Repositories:**
+- [resume_fit_node](https://github.com/Utsavdon/resume_fit_node) - Node.js Backend
+- [resume_it_backend](https://github.com/Utsavdon/resume_it_backend) - FastAPI Backend
+- [resume_fit](https://github.com/Utsavdon/resume_fit) - Flutter Application
 
-**🔍 Data-Driven Business Intelligence Solution**
-- 🧹 **Advanced EDA** - Comprehensive exploratory data analysis and feature engineering
-- 📈 **Data Preprocessing** - Data cleaning, normalization, and transformation pipelines
-- 🤖 **ML Model Development** - TensorFlow and Scikit-learn model implementations
-- 📊 **Model Evaluation** - Performance metrics, hyperparameter tuning, and validation
-- 💼 **Business Impact** - Actionable insights for customer retention strategies
-- 📋 **Visualization** - Interactive dashboards using Matplotlib and data storytelling
+### 📦 **Logistics & Live Tracking Solutions**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 
-### 👔 **Darzi App - Complete Tailor Management System**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+**🚚 Real-Time Fleet Management System**
+- 📍 **Live GPS Tracking** - Real-time location updates using Google Maps & Mapbox SDK
+- 🔔 **Push Notifications** - Firebase Cloud Messaging for instant delivery updates
+- 📊 **Route Optimization** - Intelligent routing algorithms for efficient delivery
+- 💬 **Real-time Chat** - WebSocket integration for driver-customer communication
+- 📱 **Multi-Platform** - Seamless experience across iOS and Android
+- 🎨 **Custom UI** - Material & Cupertino design with smooth animations
 
-**✂️ Revolutionary Tailoring Business Solution**
-- 👥 **Customer Management** - Complete client profiles with measurements and preferences
-- 📏 **Smart Measurements** - Digital measurement tracking with history and templates
-- 📅 **Order Management** - Full lifecycle from order placement to delivery tracking
-- 💰 **Financial Dashboard** - Revenue tracking, payment management, and business analytics
-- 🐍 **FastAPI Backend** - High-performance RESTful API with MongoDB integration
-- 🔄 **Real-time Sync** - Live data synchronization across mobile and web platforms
+### 💕 **Dating Application Platform**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-### 🎤 **Voice Recorder Pro**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+**❤️ Next-Gen Social Connection Platform**
+- 🎭 **Smart Matching** - AI-driven profile recommendations and compatibility scoring
+- 💬 **Real-time Messaging** - WebSocket chat with typing indicators and read receipts
+- 🔒 **Secure Authentication** - JWT & OAuth2 implementation with profile verification
+- 💳 **Premium Features** - Stripe/Razorpay integration with subscription management
+- 🌐 **Location-based Discovery** - Geolocation features for nearby connections
+- 📸 **Media Management** - Video processing using Meishe SDK and FFmpeg
+- ⚡ **Redis Caching** - Lightning-fast data retrieval and session management
 
-**🎵 Professional Audio Recording Solution**
-- 🎙️ **High-Quality Recording** - Multiple audio formats with noise reduction
-- ☁️ **Cloud Storage** - Firebase Cloud Functions for secure audio backup
-- 🎨 **Intuitive UI** - Flutter-based clean interface with waveform visualization
-- 🔄 **Cross-Device Sync** - Google Cloud integration for seamless access
-- 📱 **Background Recording** - Optimized performance with GetX state management
-- 🎯 **Smart Organization** - Auto-categorization and intelligent search functionality
+### ✈️ **Aviation Management System**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### 📸 **Gallery App - Smart Photo Management**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+**🛫 Comprehensive Aviation Operations Platform**
+- 📋 **Flight Management** - Complete booking, scheduling, and tracking system
+- 👥 **Crew Coordination** - Staff scheduling and communication tools
+- 📊 **Analytics Dashboard** - Real-time operational insights and reporting
+- 🔐 **Role-based Access** - Multi-level security with department-specific permissions
+- 📱 **Cross-platform** - Unified experience across mobile and web
+- 🎯 **Mission Critical** - High-availability architecture with 99.9% uptime
 
-**📷 Next-Gen Photo Gallery Experience**
-- 🤖 **AI-Powered Organization** - Smart photo categorization using ML algorithms
-- ☁️ **Cloud Backup** - Firebase storage with compression optimization
-- 🎨 **Advanced Editing** - Built-in photo editor with filters and effects
-- 🔍 **Smart Search** - ML-based content, date, and location search
-- 💰 **Revenue Optimized** - Strategic ad placement for optimal user experience
-- 🗂️ **Album Management** - Provider pattern for efficient state management
+### 📱 **Digital Content & Social Media Apps**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 
-### 💰 **Enterprise Expense Management System**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-**💼 Complete Corporate Financial Management**
-- 💳 **Expense Tracking** - Multi-category expense recording with receipt capture
-- 🏢 **Multi-Company Support** - Manage expenses across different organizations
-- 📊 **Financial Analytics** - Comprehensive reporting and budget analysis dashboards
-- 🔒 **Secure Authentication** - Firebase Auth with role-based access control
-- 🐍 **FastAPI Backend** - High-performance API with MySQL database optimization
-- 📱 **Offline-First Architecture** - SQLite local database with cloud synchronization
-
-### 🌟 **Trendify - Social Ideas Platform**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**💡 Revolutionary Social Innovation Platform**
-- 🚀 **Idea Sharing** - Platform for users to upload and share innovative concepts
-- 👥 **Social Features** - Like, comment, share, and follow functionality
-- 🔥 **Trending Algorithm** - ML-based content discovery and recommendation system
-- 📱 **Flutter Frontend** - Bloc pattern for predictable state management
-- 🐍 **Python Backend** - FastAPI with MongoDB for scalable data management
-- 📊 **Analytics Dashboard** - User engagement and content performance metrics
+**🎬 Social Media Content Platform**
+- 🎥 **Video Processing** - Advanced editing with FFmpeg and Meishe SDK
+- 🎨 **Custom Animations** - Canvas & CustomPaint for unique visual effects
+- 📲 **Social Features** - Like, comment, share, and follow functionality
+- ☁️ **Cloud Storage** - Firebase integration for media hosting
+- 🔔 **Engagement System** - Real-time notifications and activity feeds
+- 🎭 **Filters & Effects** - Lottie animations and custom gesture detection
 
 ---
 
@@ -129,73 +114,96 @@ philosophy: "Transforming complex problems into elegant, scalable solutions"
 
 <div align="center">
 
-### 🐍 Backend & APIs
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
-
-**Core:** Python • FastAPI • RESTful APIs • Microservices Architecture  
-**Practices:** API Optimization • Database Schema Design • Cloud Deployment
-
 ### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 
-**Framework:** Flutter • Dart  
-**State Management:** GetX • Provider • Bloc  
-**Tools:** Android Studio • VS Code • Figma
+**Framework:** Flutter (Dart)  
+**State Management:** GetX • Provider • BLoC  
+**UI/UX:** Material Design • Cupertino • Custom Animations • Canvas & CustomPaint  
+**Media:** Meishe SDK • FFmpeg • Lottie Animations  
+**Maps:** Google Maps SDK • Mapbox SDK  
+**Payments:** Stripe SDK • Razorpay SDK
 
-### 🤖 AI & Machine Learning  
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+### 🐍 Backend & APIs
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" />
 
-**Core:** TensorFlow • Scikit-learn • Pandas • NumPy  
-**Analysis:** EDA • Feature Engineering • Model Evaluation • Matplotlib
+**Core:** FastAPI (Python) • Node.js  
+**Architecture:** Clean Architecture • Microservices • RESTful APIs  
+**Real-time:** WebSockets • Redis Caching  
+**Auth:** JWT • OAuth2  
+**Integration:** Payment Gateways • SMS/Email APIs
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp,sqlite&theme=dark" />
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase&theme=dark" />
 
-**Databases:** MySQL • MongoDB • SQLite • Firebase Firestore  
-**Cloud:** Google Cloud Platform • Firebase • Cloud Functions
+**Databases:** PostgreSQL • MongoDB • Firebase • Supabase  
+**Expertise:** Multi-database Architecture • Indexing • Replication • CRUD Optimization  
+**Caching:** Redis for High-Performance Data Retrieval
 
-### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+### 🤖 AI & Automation
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
+**AI Systems:** Agentic AI • LLM Integration  
+**Processing:** Resume Parsing • Vectorization • Semantic Search  
+**Automation:** Workflow Automation • Predictive Analysis
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+
+**Cloud:** AWS EC2 • Google Cloud Platform  
+**DevOps:** Docker • PM2 • CI/CD (GitHub Actions)  
 **Version Control:** Git • GitHub  
-**DevOps:** Docker • CI/CD Pipelines  
-**Development:** VS Code • Android Studio • Jupyter Notebook  
-**Collaboration:** Slack • Microsoft Teams • Agile Methodology
+**Tools:** Postman • Swagger/OpenAPI
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-### Senior Software Developer (Flutter & Python Developer)
-**JKSOL INFOTECH** | Surat, India | Aug 2022 - Apr 2024
+### Flutter Developer
+**TechnoYuga Soft Pvt. Ltd.** | Surat, India | Feb 2024 - Oct 2025
 
-Engineered and deployed FastAPI-based backend systems, improving API response speed by 25% and ensuring scalable, secure data flow across multiple client services. Integrated machine learning models via Python APIs, transforming predictive insights into real-time business intelligence for client-facing applications. Optimized database schemas and queries (MySQL, MongoDB) to reduce data load times by 30%, improving application stability under high traffic. Developed modular backend architecture supporting multi-tenant client apps, cutting delivery timelines by 20% and boosting code reusability.
+Led the development and deployment of 25+ production-grade applications across diverse domains including Dating, Logistics, Digital Content, Aviation, and Social Media, improving project delivery efficiency by 40%.
 
-Built and maintained 10+ Flutter applications with Firebase and REST API integrations, ensuring smooth performance, intuitive UI design, and improved user satisfaction. Applied clean architecture and reusable components, resulting in maintainable, scalable app structures aligned with business logic.
+Architected end-to-end solutions from design to deployment using Flutter and FastAPI, optimizing application performance and reducing crash rates through rigorous testing and code reviews.
 
-Mentored 20+ junior developers and interns, introducing professional workflows using Git, GitHub, Slack, and project management tools, reducing version conflicts by 35% and improving delivery efficiency.
+Mentored junior developers and coordinated cross-functional teams including designers, QA engineers, and product managers to ensure smooth delivery of complex projects.
+
+Implemented clean architecture patterns and best practices, resulting in maintainable, scalable codebases that reduced technical debt and improved team velocity.
+
+### Freelance Full Stack Developer
+**Remote** | Jan 2021 - Jan 2024
+
+Delivered multiple production-ready mobile applications and backend systems with emphasis on high performance, security, and scalability for diverse clients across industries.
+
+Developed AI-driven agentic systems for intelligent automation and workflow management, integrating advanced LLM capabilities for smart decision-making.
+
+Integrated real-time features including chat, notifications, and live updates using Firebase and WebSockets, enhancing user engagement and retention.
+
+Built secure REST APIs using FastAPI and Node.js, handling complex payment workflows including 3D Secure authentication for Stripe and Razorpay integrations.
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 📊 GitHub Statistics
 
-**Post-Degree Diploma in Artificial Intelligence** | Jan 2025 - Dec 2025  
-**The University of Winnipeg – Professional, Applied and Continuing Education (PACE)** | Winnipeg, MB  
-Gaining expertise in machine learning, predictive modeling, and AI systems using TensorFlow and Scikit-learn. Conducted EDA, data preprocessing, and model evaluation on real-world datasets for business analytics. Developing cloud-based AI workflows and data visualization pipelines supporting data-driven decision-making.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Utsavdon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavdon&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-**Bachelor of Computer Applications** | Jul 2021 - Mar 2024  
-**Veer Narmad South Gujarat University** | Surat, India
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavdon&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 🏆 Leadership Experience
+## 🎓 Education
 
-### Event Coordinator - Impetus 2023
-**Veer Narmad South Gujarat University** | Surat, India
+**Bachelor of Engineering in Computer Science**  
+**S V Patel** | Surat, India | 2024
 
-Led the end-to-end design of an event management dashboard for 2,000 participants and 100 games, streamlining faculty and participant coordination. Orchestrated communication among multiple university departments to ensure smooth scheduling, real-time data tracking, and reporting efficiency. Implemented a data-driven reporting system, reducing data processing time and enhancing participant tracking accuracy through automated updates.
+Comprehensive curriculum covering software engineering, algorithms, data structures, databases, and system design with hands-on project experience.
 
 ---
 
@@ -203,71 +211,79 @@ Led the end-to-end design of an event management dashboard for 2,000 participant
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/purvesh-ghevariya/" target="_blank">
+<a href="https://www.linkedin.com/in/utsav-donda" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:purveshghevariya77@gmail.com">
+<a href="mailto:utsavdonda41@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/purveshghevariya" target="_blank">
+<a href="https://github.com/Utsavdon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.youtube.com/channel/UC02c0ksNIBrU3i3Hn3jVqmA" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
 
-**📧 Email:** purveshghevariya77@gmail.com  
-**📱 Phone:** 431-754-2905  
-**📍 Location:** Winnipeg, Manitoba, Canada
+**📧 Email:** utsavdonda41@gmail.com  
+**📱 Phone:** +91 9429159960  
+**📍 Location:** Surat, Gujarat, India
 
 </div>
 
 ---
 
-## 💡 Current Focus & 2025 Goals
+## 💡 Current Focus & Future Goals
 
 ```python
-class PurveshGhevariya:
+class UtsavDonda:
     def __init__(self):
-        self.name = "Purvesh Ghevariya"
-        self.title = "Senior Software Developer & AI Engineer"
-        self.location = "Winnipeg, Manitoba, Canada"
-        self.experience = "4 years"
-        self.core_expertise = ["Python FastAPI", "Flutter", "MySQL", "MongoDB", "AI/ML"]
-        self.published_apps = "10+"
+        self.name = "Utsav Donda"
+        self.title = "Full Stack Flutter & FastAPI Developer"
+        self.location = "Surat, Gujarat, India"
+        self.experience = "3+ years"
+        self.core_expertise = ["Flutter", "FastAPI", "AI Integration", "Multi-Database Systems"]
+        self.apps_delivered = "25+"
         
     def current_projects(self):
         return [
-            "Scalable FastAPI backend systems",
-            "AI/ML model deployment pipelines",
-            "Production-grade Flutter applications",
-            "Cloud-native architecture on GCP",
-            "Team mentorship and code reviews"
+            "Resume Fit - AI resume search platform",
+            "Agentic AI systems for automation",
+            "Real-time logistics tracking solutions",
+            "Scalable dating platform with AI matching",
+            "Enterprise aviation management system"
         ]
     
-    def goals_2025(self):
+    def specializations(self):
         return [
-            "Complete AI Diploma with excellence",
-            "Deploy 5 new ML-powered applications",
-            "Contribute to open-source Python projects",
-            "Expand tech content creation on YouTube",
-            "Master cloud-based AI system architecture"
+            "Cross-platform mobile development with Flutter",
+            "High-performance FastAPI backend systems",
+            "Multi-database architecture (PostgreSQL, MongoDB, Firebase)",
+            "Real-time features (WebSockets, live tracking)",
+            "Payment gateway integrations (Stripe, Razorpay)",
+            "AI-powered systems and workflow automation"
+        ]
+    
+    def future_goals(self):
+        return [
+            "Expand AI integration capabilities with advanced LLMs",
+            "Build more agentic AI systems for enterprise automation",
+            "Contribute to open-source Flutter and FastAPI projects",
+            "Master cloud-native architecture patterns",
+            "Share knowledge through tech content and tutorials"
         ]
     
     def tech_stack(self):
         return {
-            "backend": ["Python", "FastAPI", "MySQL", "MongoDB"],
-            "mobile": ["Flutter", "Dart", "GetX", "Provider", "Bloc"],
-            "ai_ml": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "cloud": ["Google Cloud", "Firebase", "Docker"],
-            "tools": ["Git", "VS Code", "Jupyter", "Android Studio"]
+            "mobile": ["Flutter", "Dart", "GetX", "Provider", "BLoC"],
+            "backend": ["FastAPI", "Python", "Node.js", "Redis"],
+            "databases": ["PostgreSQL", "MongoDB", "Firebase", "Supabase"],
+            "ai": ["LLM Integration", "Vector Search", "Resume Parsing"],
+            "cloud": ["AWS EC2", "Docker", "PM2", "CI/CD"],
+            "tools": ["Git", "Postman", "Swagger", "Android Studio"]
         }
     
     def philosophy(self):
-        return "Engineering scalable solutions with clean code and AI innovation"
+        return "Engineering intelligent, scalable solutions that transform ideas into reality"
 
-developer = PurveshGhevariya()
-print("Transforming ideas into production-ready solutions")
+developer = UtsavDonda()
+print("Building the future, one commit at a time 🚀")
 ```
 
 ---
@@ -275,7 +291,9 @@ print("Transforming ideas into production-ready solutions")
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
   
-  **"Building the future with Python, Flutter, and AI"**
+  **"Transforming complex challenges into elegant, AI-powered solutions"**
   
-  ⭐ **Open to collaborations and innovative projects** ⭐
+  ⭐ **Open to collaborations, freelance projects, and innovative opportunities** ⭐
+  
+  ![Snake animation](https://github.com/Utsavdon/Utsavdon/blob/output/github-contribution-grid-snake.svg)
 </div>
